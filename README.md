@@ -22,6 +22,7 @@ Alfred高效的工作流软件
 
 ##[brewhome](https://github.com/Homebrew/homebrew/wiki/installation)
 包管理工具
+
 ![brewhone](./images/brewhome.png)
 
 ##[CheatSheet](http://www.mediaatelier.com/CheatSheet/)
@@ -41,7 +42,7 @@ API文档浏览搜索和代码片段管理功能
 
 ##[Iterm2](http://iterm2.com)
 终端增强
-![iterm2](./images/iterm2.jpg)
+![iterm2](./images/iterm2.png)
 
 ##[MindNode](https://mindnode.com)
 思维导图
