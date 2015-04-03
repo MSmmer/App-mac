@@ -65,6 +65,7 @@ markdown编辑器
 
 ##[ShadowsocksX](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-帮助)
 翻墙
+
 ![shardowsocksx](./images/shardowsocksx.png)
 
 ##[VirtualBox](https://www.virtualbox.org)
