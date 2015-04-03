@@ -3,18 +3,18 @@
 
 ##[Alfred](http://www.alfredworkflow.com)
 Alfred高效的工作流软件
-*dash快速查询API*
+####dash快速查询API
 ![dash](./images/dash.png)
-*kill进程*
+####kill进程
 ![kill](./images/kill.png)
 
-*从终端itrem跳转到文件路径*
+####从终端itrem跳转到文件路径
 ![if](./images/if.png)
 
-*从文件路径跳转到终端itrem*
+####从文件路径跳转到终端itrem
 ![fi](./images/fi.png)
 
-*各地时间查询*
+####各地时间查询
 ![tz](./images/tz.png)
 ##[Beyond compare](http://www.scootersoftware.com)
 文件比较工具,除了常规的文本比较外,还提供了三方比较、文件夹比较的功能。
