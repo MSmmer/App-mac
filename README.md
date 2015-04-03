@@ -2,31 +2,19 @@
 #目录
 
 ##[Alfred](http://www.alfredworkflow.com)
-Alfred功能强大的工作流软件,可以直接进行对文件进行操作,例如拷贝,粘贴等等。也可以像Spotlight一样索引搜索文件,可以直接输入数字作计算器用,可以查字典,可以当剪贴板用,可以直接当终端用,可以进行网络搜索。
-安装完成后使用alt + 空格.
-####插几张工作流图片
-```
-dash快速查询API
-```
+Alfred高效的工作流软件
+*dash快速查询API*
 ![dash](./images/dash.png)
-```
-kill进程
-```
+*kill进程*
 ![kill](./images/kill.png)
 
-```
-从终端itrem跳转到文件路径
-```
+*从终端itrem跳转到文件路径*
 ![if](./images/if.png)
 
-```
-从文件路径跳转到终端itrem
-```
+*从文件路径跳转到终端itrem*
 ![fi](./images/fi.png)
 
-```
-各地时间查询
-```
+*各地时间查询*
 ![tz](./images/tz.png)
 ##[Beyond compare](http://www.scootersoftware.com)
 文件比较工具,除了常规的文本比较外,还提供了三方比较、文件夹比较的功能。
