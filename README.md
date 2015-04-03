@@ -35,12 +35,13 @@ API文档浏览搜索和代码片段管理功能
 
 ##[DropBox](http://www.dropbox.com)
 文件同步
+
 ![dropbox](./images/dropbox.jpg)
 
 
 ##[Iterm2](http://iterm2.com)
 终端增强
-![itrem2](./images/itrem2.jpg)
+![iterm2](./images/iterm2.jpg)
 
 ##[MindNode](https://mindnode.com)
 思维导图
