@@ -1,11 +1,6 @@
 推荐常用的工具
 #目录
 1. Alfred 
-    - dash 
-    - kill
-    - if 
-    - fi 
-    - tz 
 2. Beyond_compare 
 3. brewhome 
 4. CheatSheet 
