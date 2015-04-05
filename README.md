@@ -1,5 +1,24 @@
 推荐常用的工具
 #目录
+1. Alfred 
+    - dash 
+    - kill
+    - if 
+    - fi 
+    - tz 
+2. Beyond_compare 
+3. brewhome 
+4. CheatSheet 
+5. Dash 
+6. Dropbox 
+7. Itrem2 
+8. MindNode 
+9. Moom 
+10. Mou 
+11. OmniGraffle
+12. ShawodsocksX
+13. VirtualBox
+13. Wallpapers 
 
 ##[Alfred](http://www.alfredworkflow.com)
 Alfred高效的工作流软件
