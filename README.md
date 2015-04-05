@@ -1,13 +1,7 @@
 推荐常用的工具
 #目录
 1. Alfred 
-2. Beyond_compare 
-3. brewhome 
-4. CheatSheet 
-5. Dash 
-6. Dropbox 
-7. Itrem2 
-8. MindNode 
+MindNode 
 9. Moom 
 10. Mou 
 11. OmniGraffle
@@ -60,7 +54,7 @@ API文档浏览搜索和代码片段管理功能
 
 ##[MindNode](https://mindnode.com)
 思维导图
-![mindnode](./images/mindnode.jpg)
+![mindnode](./images/MindNode.png)
 
 
 ##[Moom](http://manytricks.com/moom/)
