@@ -1,13 +1,15 @@
 推荐常用的工具
 #目录
 1. Alfred 
-MindNode 
-9. Moom 
-10. Mou 
-11. OmniGraffle
-12. ShawodsocksX
-13. VirtualBox
-13. Wallpapers 
+2. MindNode 
+3. Moom 
+4. Mou 
+5. OmniGraffle
+6. ShawodsocksX
+7. VirtualBox
+8. Wallpapers 
+9. f.lux 
+10. pocket 
 
 ##[Alfred](http://www.alfredworkflow.com)
 Alfred高效的工作流软件
@@ -94,4 +96,13 @@ markdown编辑器
 
 ![wallpapers](./images/wallpapers.png)
 
+##[Pocket](https://www.getpocket.com/)
+网页保存,可以在不同平台上阅读
+
+![Pocket](./images/pocket.png)
+
+##[f.lux](https://www.getpocket.com/)
+自动调节色温，对眼睛好
+
+![f.lux](./images/flux.png)
 
