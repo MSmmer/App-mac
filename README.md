@@ -101,7 +101,7 @@ markdown编辑器
 
 ![Pocket](./images/pocket.png)
 
-##[f.lux](https://www.getpocket.com/)
+##[f.lux](https://justgetflux.com)
 自动调节色温，对眼睛好
 
 ![f.lux](./images/flux.png)
